@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../../hdl/cathode_top.vhd" \
+"../../../../../hdl/counting_buttons_pkg.vhd" \
+"../../../../../hdl/seven_segment.vhd" \
+"../../../../../hdl/counting_buttons.vhd" \
+
+# Do not sort compile order
+nosort

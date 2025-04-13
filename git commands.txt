@@ -1,0 +1,10 @@
+git commands
+
+git status
+
+git add --all or git add -a
+git add .
+
+git commit -m "message"
+
+git push

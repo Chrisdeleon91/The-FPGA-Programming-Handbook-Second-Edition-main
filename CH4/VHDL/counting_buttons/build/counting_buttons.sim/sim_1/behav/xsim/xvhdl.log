@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH4/VHDL/counting_buttons/hdl/cathode_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cathode_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH4/VHDL/counting_buttons/hdl/counting_buttons_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH4/VHDL/counting_buttons/hdl/seven_segment.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'seven_segment'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/chris/Downloads/The-FPGA-Programming-Handbook-Second-Edition-main/CH4/VHDL/counting_buttons/hdl/counting_buttons.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counting_buttons'
