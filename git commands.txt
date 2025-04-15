@@ -8,3 +8,8 @@ git add .
 git commit -m "message"
 
 git push
+
+
+
+git init at the parent directory
+git status add commit should now work
